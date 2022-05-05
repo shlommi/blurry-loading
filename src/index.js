@@ -6,7 +6,6 @@ let countingInterval = setInterval(showBlurring, 30);
 
 function showBlurring() {
   loadingNumber++;
-  console.log(loadingNumber);
   if (loadingNumber > 99) {
     clearInterval(countingInterval);
   }
