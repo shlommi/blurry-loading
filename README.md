@@ -1,2 +1,2 @@
-# blurry-loading
+# cool-search-widget
 Created with CodeSandbox
